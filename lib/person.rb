@@ -1,10 +1,12 @@
 
 class Person
   
+  attr_accessor :name
+  
   def initialize(name)
     
   end
   
-  attr_accessor :name
+  
   
 end
